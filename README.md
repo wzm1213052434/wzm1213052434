@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+It's my gayhub website ,  I'm working as a web fronted programmer in Hikvision HangZhou China. 
+welcome to HangZhou, although I'm new here and i con't give you some suggestion about traveling. hhhhh 
+anyway, welcome to chat with me  the tecnology about  the Html css js node.js vue react RN even the algorithm(i like it but it's so difficult) 
